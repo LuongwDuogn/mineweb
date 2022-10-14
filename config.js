@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'nhớ nhaaa ',
     btnYes: 'Uci nhớ :<< ',
     btnNo: 'Khum:3',
-    question:'Đấm nhao hog? ',
+    question:'Đấm nhau hog? ',
     btnReply: 'Gửi người sao hỏa ',
     reply: 'đấm lunn',
     mess: 'mai t múa kiếm chếc m',
